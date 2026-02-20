@@ -5,7 +5,8 @@ this will start the backend so that the database and api are accessable
 then open Lab2 CLI and start Main.java
 now you can access the api using the CLI
 
-to access the api using postman the link is :http://localhost:8080/ \n
+to access the api using postman the link is :http://localhost:8080/
+
 o	Get all books
 	GET /books
 o	Get books by title
